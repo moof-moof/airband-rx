@@ -1,4 +1,4 @@
-![] (./img/TWA.png)![](./img/sdrpi-ikon.png) 
+![](./img/TWA.png)![](./img/sdrpi-ikon.png) 
 
 ## Airband receiver
 
