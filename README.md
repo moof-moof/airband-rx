@@ -1,4 +1,9 @@
-![](./img/TWA.png)![](./img/sdrpi-ikon.png) 
+<p align="center">
+  <img src="./img/TWA.png">
+</p>
+<p align="center">
+  <img src="./img/sdrpi-ikon.png">
+</p>
 
 ## Airband receiver
 
@@ -15,7 +20,7 @@ A simple ATC voice communications receiver using an RTL-SDR dongle and a Raspber
 - Activate SSH
 -  Un-install Wolfram, LibreOffice, etc
 - Enable autostarting without login
--  Enable input-buttons, and adapt provided scripts accordingly.
+-  Attach input-buttons, and adapt provided scripts accordingly.
 
 ***
 
