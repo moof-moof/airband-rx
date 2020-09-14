@@ -24,6 +24,6 @@ A simple ATC voice communications receiver using an RTL-SDR dongle and a Raspber
 
 ***
 
-See project's write-up at: https://sites.google.com/site/xnebmisc/home/airband-rx
+See project's write-up at: http://xneb.org/mabe/xnebmisc/home/airband-rx.html or https://sites.google.com/view/xneb-project-logs/home/airband-rx
 
 ![](./img/MAJW9559-kontr.png) 
